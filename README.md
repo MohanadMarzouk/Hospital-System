@@ -16,11 +16,7 @@ Used C++ and Qt, applying OOP concepts, design patterns and SOLID principles alo
    
    
    
-   
-   
-   
-   
-   
+
   
 ![Screenshot (1)](https://user-images.githubusercontent.com/89541126/137491644-7b2fcef1-edb3-40fa-b132-48a6d0ccd7ab.png) 
 
