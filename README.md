@@ -17,19 +17,19 @@ Used C++ and Qt, applying OOP concepts, design patterns and SOLID principles alo
        -Edit existing patient. 
    
    
-   -Delete doctor. 
+       -Delete doctor. 
    
    
-   -Delete patient. 
+      -Delete patient. 
    
    
-   -Display all doctors.
+       -Display all doctors.
+   
+      
+       -Display emergency patients and normal patients. 
    
    
-   -Display emergency patients and normal patients. 
-   
-   
-   -Make an appointment for a patient with specific doctor.
+      -Make an appointment for a patient with specific doctor.
    
    
    
