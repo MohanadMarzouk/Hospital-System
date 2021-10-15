@@ -2,15 +2,31 @@
 Used C++ and Qt, applying OOP concepts, design patterns and SOLID principles along with MVC architecture to implement a Hospital System application.  
 
 
---This application should enable the admin to: 
+->This application should enable the admin to: 
    -Add new doctor. 
+   
+   
    -Add new patient. 
+   
+   
    -Edit existing doctor. 
+   
+   
    -Edit existing patient. 
+   
+   
    -Delete doctor. 
+   
+   
    -Delete patient. 
+   
+   
    -Display all doctors.
+   
+   
    -Display emergency patients and normal patients. 
+   
+   
    -Make an appointment for a patient with specific doctor.
    
    
