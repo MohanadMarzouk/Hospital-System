@@ -29,9 +29,10 @@ Used C++ and Qt, applying OOP concepts, design patterns and SOLID principles alo
    
 -Make an appointment for a patient with specific doctor.
    
+   ![ClassDiagram1](https://user-images.githubusercontent.com/89541126/137496502-26d1d6f6-6065-438c-a730-4eeb739d3be8.jpg)
+
    
-   
- ![Screenshot (1)](https://user-images.githubusercontent.com/89541126/137491644-7b2fcef1-edb3-40fa-b132-48a6d0ccd7ab.png) 
+  ![Screenshot (1)](https://user-images.githubusercontent.com/89541126/137491644-7b2fcef1-edb3-40fa-b132-48a6d0ccd7ab.png) 
 
 ![Screenshot (3)](https://user-images.githubusercontent.com/89541126/137491763-ee73e082-0326-4a81-b9d0-71507e4c5806.png)
 
