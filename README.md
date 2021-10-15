@@ -5,16 +5,16 @@ Used C++ and Qt, applying OOP concepts, design patterns and SOLID principles alo
 ->This application should enable the admin to: 
   
   
-  -Add new doctor. 
+      -Add new doctor. 
    
    
-   -Add new patient. 
+      -Add new patient. 
    
    
-   -Edit existing doctor. 
+      -Edit existing doctor. 
    
    
-   -Edit existing patient. 
+       -Edit existing patient. 
    
    
    -Delete doctor. 
